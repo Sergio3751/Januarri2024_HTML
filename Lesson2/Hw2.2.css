@@ -1,0 +1,19 @@
+.pink{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(205, 139, 63, 0.42);
+}
+.red1, .red2, .red3, .red4, .red5, .red6{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: 2s;
+}
+.red1:hover, .red2:hover, .red3:hover, .red4:hover, .red5:hover, .red6:hover{
+    border-radius: 50%;
+    background-color: dimgray;
+    transition: 2s;
+}

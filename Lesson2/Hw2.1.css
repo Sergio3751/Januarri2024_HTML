@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: space-around;
+}
+div{
+    width: 150px;
+    height: 150px;
+    background-color: rgba(234, 116, 52, 0.24);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Pink1{font-family: 'Rubik Pixels', system-ui;}
+.Pink2{font-family: 'Sedgwick Ave Display', cursive;}
+.Pink3{ font-family: 'Dancing Script', cursive;}
+.Pink4{font-family: 'Fjalla One', sans-serif;}
+.Pink5{font-family: 'Indie Flower', cursive;}
