@@ -5,16 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acf8e1c8-a6c3-4abf-b9dd-b3780524d9b0" name="Changes" comment="innit commit">
+      <change afterPath="$PROJECT_DIR$/Dodatkowe na Nediliy/Dz1d.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Dodatkowe na Nediliy/dz1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/Dz2_1..html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/Dz2_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/Dz2_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/Hw2.1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/Hw2.2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/Hw2.3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/z.Dod1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/z.Dodatkowe.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/z.Dodatkowe.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/D.z_3.1.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/D.z_3.1.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/D.z_3.1.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/D.z_3.1.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/D.z_3.1.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/D.z_3.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/D.z_3.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Dz3.2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Dz311.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Dz312.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Dz_313.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Dz_314.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3/Dz_315.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +74,9 @@
       <workItem from="1706731397292" duration="4761000" />
       <workItem from="1706818380809" duration="5164000" />
       <workItem from="1707047168395" duration="1926000" />
-      <workItem from="1707058714949" duration="8706000" />
+      <workItem from="1707058714949" duration="15105000" />
+      <workItem from="1707322160803" duration="9099000" />
+      <workItem from="1707410674240" duration="3481000" />
     </task>
     <task id="LOCAL-00001" summary="innit commit">
       <option name="closed" value="true" />
@@ -79,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706735783013</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="innit commit">
+      <option name="closed" value="true" />
+      <created>1707067856655</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707067856655</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
