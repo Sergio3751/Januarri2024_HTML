@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        form {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border: 2px solid grey;
+            width: 40vw;
+            height: 80vh;
+        }
+
+        .src {
+            margin: 0;
+
+        }
+
+        #name {
+            width: 70%;
+            height: 5vh;
+            margin-bottom: 2vh;
+            text-overflow: ellipsis;
+            border-radius: 5px;
+        }
+
+        input[type="text"] {
+            font-size: 17px;
+        }
+
+        input[type="password"] {
+            font-size: 17px;
+        }
+
+        #password {
+            width: 70%;
+            height: 5vh;
+            margin-bottom: 2vh;
+            border-radius: 5px;
+        }
+
+        .button {
+            width: 70%;
+            height: 5vh;
+            margin-bottom: 2vh;
+            border-radius: 10px;
+            background-color: dodgerblue;
+            color: white;
+            font-size: 17px;
+        }
+
+        p {
+            display: block;
+            font-size: 17px;
+            color: grey;
+        }
+
+        .src1 {
+            width: 30px;
+            height: 30px;
+            font-size: 30px;
+            margin-bottom: -2px;
+        }
+        .text{
+            display: flex;
+            width: 70%;
+            height: 10vh;
+            justify-content: center;
+            align-items: center;
+        }
+        h3{
+            color: #1e4bff;
+
+        }
+        .footer{
+            margin: 5vh;
+            width: 41%;
+            height: 10vh;
+            border: 2px solid grey;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        body a{
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+<form>
+    <img class="src" src="instagram.png" alt="1">
+    <label for="name"></label>
+    <input type="text" name="username" id="name" placeholder="Номер телефон,ім'я користувача або емейл">
+    <label for="password"></label>
+    <input type="password" name="username" id="password" placeholder="Пароль">
+    <button class="button"><b>Увійти</b></button>
+    <p><b>АБО</b></p>
+    <a href="#" class="text"><img class="src1" src="Facebook.png" alt="2">
+        <h3>Увійти через Facebook</h3></a>
+    <a href="#"><h3>Забули пароль?</h3></a>
+
+</form>
+<div class="footer"><h3 style="color: black">Не маєте облікового запису?</h3>
+    <a href="#"><h3>Зареєструйтеся</h3></a>
+</div>
+</body>
+</html>
