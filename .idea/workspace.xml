@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acf8e1c8-a6c3-4abf-b9dd-b3780524d9b0" name="Changes" comment="add jpg">
+    <list default="true" id="acf8e1c8-a6c3-4abf-b9dd-b3780524d9b0" name="Changes" comment="add width and height">
+      <change afterPath="$PROJECT_DIR$/Lesson6/Dz61.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/Dz612.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/Dz62.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/Dz621.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/Dz62screen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/Dz_6.1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson5/D.z5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/D.z5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -81,7 +86,10 @@
       <workItem from="1707737247374" duration="6608000" />
       <workItem from="1707762130890" duration="4469000" />
       <workItem from="1707842649406" duration="4867000" />
-      <workItem from="1707933229792" duration="288000" />
+      <workItem from="1707933229792" duration="1761000" />
+      <workItem from="1708022722504" duration="6181000" />
+      <workItem from="1708107972959" duration="3012000" />
+      <workItem from="1708111165866" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="innit commit">
       <option name="closed" value="true" />
@@ -155,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707853783404</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add width and height">
+      <option name="closed" value="true" />
+      <created>1707933756172</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707933756172</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="innit commit" />
     <MESSAGE value="add jpg" />
-    <option name="LAST_COMMIT_MESSAGE" value="add jpg" />
+    <MESSAGE value="add width and height" />
+    <option name="LAST_COMMIT_MESSAGE" value="add width and height" />
   </component>
 </project>
